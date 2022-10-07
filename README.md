@@ -7,6 +7,13 @@ Gracias a Henry ahora tengo experiencia trabajando en NodeJS, React, Redux, SQL 
 Participé en la creación de un E-commerce para la venta de productos informáticos. Con pensamiento creativo, organización de tareas, resolución de problemas, trabajo en equipo, comunicación y autonomía.
 Desde chico quiero ser inventor y a medida que recorro ese camino me encontré con las cosas mágicas que ofrece la tecnología y como la programación es capas de darle vida a las ideas mas complicadas.
 "Cualquier tecnología suficientemente avanzada es indistinguible de la magia."
+
+mail: alejandrobalonga@gmail.com
+
+<a href="https://www.linkedin.com/in/alejandro-balonga-206a84243/
+">
+  <img alt="Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="cat reading"/>
+</a>
 <!--
 **AlejandroBalonga/AlejandroBalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
