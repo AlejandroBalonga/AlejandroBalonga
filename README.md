@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![banner linkedin](https://user-images.githubusercontent.com/96400240/194439336-42f9da0b-82be-431c-96f6-ce4f1feac792.PNG)
+
+### Hi there 👋 
 
 <!--
 **AlejandroBalonga/AlejandroBalonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
