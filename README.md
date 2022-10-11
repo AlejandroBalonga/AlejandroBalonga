@@ -3,9 +3,13 @@
 
 ### Hi there 👋 
 Como programador industrial tengo años de experiencia trabajando en equipo y constancia con la implementación de nuevas tecnologías.
+
 Gracias a Henry ahora tengo experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector. 
+
 Participé en la creación de un E-commerce para la venta de productos informáticos. Con pensamiento creativo, organización de tareas, resolución de problemas, trabajo en equipo, comunicación y autonomía.
+
 Desde chico quiero ser inventor y a medida que recorro ese camino me encontré con las cosas mágicas que ofrece la tecnología y como la programación es capas de darle vida a las ideas mas complicadas.
+
 "Cualquier tecnología suficientemente avanzada es indistinguible de la magia."
 
 mail: alejandrobalonga@gmail.com
