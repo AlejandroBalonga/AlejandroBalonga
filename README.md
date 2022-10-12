@@ -23,6 +23,8 @@ Desde chico quiero ser inventor y a medida que recorro ese camino me encontré c
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroBalonga&show_icons=true&hide_border=false)
+
 mail: alejandrobalonga@gmail.com
 
 <a href="https://www.linkedin.com/in/alejandro-balonga-206a84243/
